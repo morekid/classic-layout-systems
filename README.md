@@ -28,37 +28,37 @@ If you need higher resolution feel free to use Ilustrator artboards directly.
 
 **Van de Graaf Canon** 
  
-<img src="svg/01 - Van de Graaf Canon.svg" width="500">
+<img src="svg/01 - Van de Graaf Canon.svg" />
 
 ---
 
 **Villard de Honnecourt's Diagram** 
 
-<img src="svg/04 - Villard de Honnecourt's Diagram 12x12.svg" width="500"> 
+<img src="svg/04 - Villard de Honnecourt's Diagram 12x12.svg" />
 
 ---
 
  **Golden Section** 
  
-<img src="svg/05 - Golden Section.svg" width="500">
+<img src="svg/05 - Golden Section.svg" />
 
 ---
  
 **Fibonacci Grid** 
  
-<img src="svg/06 - Fibonacci Grid.svg" width="500">
+<img src="svg/06 - Fibonacci Grid.svg" />
 
 ---
 
 **Fibonacci Proportions** 
 
-<img src="svg/07 - Fibonacci Proportions.svg" width="500"> 
+<img src="svg/07 - Fibonacci Proportions.svg" />
 
 ---
 
 **Renard Series** 
 
-<img src="svg/09 - Renard Series R10.svg" width="500"> 
+<img src="svg/09 - Renard Series R10.svg" />
 
 ---
 
