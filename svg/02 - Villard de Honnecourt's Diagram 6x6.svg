@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <defs>
+    <style>
+      .acad210d-a542-4f3e-aa9c-d35ce6459813, .aec9ab6f-fdb9-4df1-8c52-7d60b2814b03, .bcaf16cd-c1df-4cbb-958a-d57368e6b28e {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .aec9ab6f-fdb9-4df1-8c52-7d60b2814b03 {
+        stroke: #f0f;
+      }
+
+      .acad210d-a542-4f3e-aa9c-d35ce6459813 {
+        stroke: red;
+      }
+
+      .bcaf16cd-c1df-4cbb-958a-d57368e6b28e {
+        stroke: #f0a;
+      }
+    </style>
+  </defs>
+  <title>02 - Villard de Honnecourt&amp;apos;s Diagram 6x6</title>
+  <g id="e74c155c-8299-4dc4-ad54-c4d407f51534" data-name="Villard de Honnecourt&apos;s Diagram 6x6">
+    <g id="b88208ba-8a02-48e8-bc57-ec301c974881" data-name="Measures">
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x2="1000" y2="750"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="500" x2="1000" y2="750"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="500" y2="750"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="1000" y2="750"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="500" x2="500" y2="750"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="666.67" x2="666.67" y2="250"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="666.67" x2="500" y2="250"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="666.67" x2="333.33" y2="250"/>
+      <line class="aec9ab6f-fdb9-4df1-8c52-7d60b2814b03" x1="666.67" x2="416.67" y2="125"/>
+    </g>
+    <g id="a4152b96-e322-4505-96b0-f3e3320668b2" data-name="Key Points">
+      <circle class="acad210d-a542-4f3e-aa9c-d35ce6459813" cx="583.33" cy="125" r="3"/>
+      <circle class="acad210d-a542-4f3e-aa9c-d35ce6459813" cx="666.67" cy="250" r="4"/>
+      <circle class="acad210d-a542-4f3e-aa9c-d35ce6459813" cx="333.33" cy="250" r="4"/>
+      <circle class="acad210d-a542-4f3e-aa9c-d35ce6459813" cx="416.67" cy="125" r="3"/>
+    </g>
+    <g id="a6f67901-b9cb-47bb-a724-d44bfd87ab54" data-name="Blocks">
+      <rect class="acad210d-a542-4f3e-aa9c-d35ce6459813" x="583.33" y="125" width="250" height="375"/>
+      <rect class="acad210d-a542-4f3e-aa9c-d35ce6459813" x="166.67" y="125" width="250" height="375"/>
+    </g>
+    <g id="f3126e5b-0fc3-4f82-948f-ffe275a46744" data-name="6x6 Grid">
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="500" y1="125" x2="1000" y2="125"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="500" y1="250" x2="1000" y2="250"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="500" y1="375" x2="1000" y2="375"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="500" y1="500" x2="1000" y2="500"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="500" y1="625" x2="1000" y2="625"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="583.33" x2="583.33" y2="750"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="666.67" x2="666.67" y2="750"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="750" x2="750" y2="750"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="833.33" x2="833.33" y2="750"/>
+      <line class="bcaf16cd-c1df-4cbb-958a-d57368e6b28e" x1="916.67" x2="916.67" y2="750"/>
+    </g>
+  </g>
+</svg>

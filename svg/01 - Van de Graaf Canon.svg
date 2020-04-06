@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <defs>
+    <style>
+      .b001ff6b-280b-47d3-81e3-2403a13bc460, .b59514d9-0223-4a04-a7c8-785b72359070, .ebd1d1fd-a822-43c8-ad01-74f688687919, .ff0eec26-25b8-4cec-b516-1a22fef39934 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .ff0eec26-25b8-4cec-b516-1a22fef39934 {
+        stroke: #f0f;
+      }
+
+      .ebd1d1fd-a822-43c8-ad01-74f688687919 {
+        stroke: red;
+      }
+
+      .b001ff6b-280b-47d3-81e3-2403a13bc460 {
+        stroke: #a0f;
+      }
+
+      .b59514d9-0223-4a04-a7c8-785b72359070 {
+        stroke: #f0a;
+      }
+    </style>
+  </defs>
+  <title>01 - Van de Graaf Canon</title>
+  <g id="a86a6066-fc0f-4a49-88b1-8e7c417ffa0b" data-name="Van de Graaf Canon">
+    <g id="a23681ca-8315-4b55-8a4c-152c3edf5a5a" data-name="Measures">
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x2="1000" y2="750"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="500" x2="1000" y2="750"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="500" y2="750"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="1000" y2="750"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="500" x2="500" y2="750"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="666.67" x2="666.67" y2="250"/>
+      <line class="ff0eec26-25b8-4cec-b516-1a22fef39934" x1="666.67" x2="333.33" y2="250"/>
+    </g>
+    <g id="ef82d1f2-afec-4b78-afcf-91e0ba6e306a" data-name="Key Points">
+      <circle class="ebd1d1fd-a822-43c8-ad01-74f688687919" cx="555.56" cy="83" r="3"/>
+      <circle class="ebd1d1fd-a822-43c8-ad01-74f688687919" cx="444.44" cy="83.33" r="3"/>
+      <circle class="ebd1d1fd-a822-43c8-ad01-74f688687919" cx="666.67" cy="250" r="4"/>
+      <circle class="ebd1d1fd-a822-43c8-ad01-74f688687919" cx="333.33" cy="250" r="4"/>
+    </g>
+    <g id="e248cba9-c103-4f0e-9369-019ed1794d22" data-name="Blocks">
+      <rect class="ebd1d1fd-a822-43c8-ad01-74f688687919" x="555.56" y="83.33" width="333.33" height="500"/>
+      <rect class="ebd1d1fd-a822-43c8-ad01-74f688687919" x="111.11" y="83.33" width="333.33" height="500"/>
+    </g>
+    <circle id="eccf0c83-d918-4ecd-b1e8-0bfe757c356f" data-name="Proportion Check" class="b001ff6b-280b-47d3-81e3-2403a13bc460" cx="250" cy="333.33" r="250"/>
+    <g id="ebf1a874-ab66-49bf-9698-6c8e07a77ca7" data-name="9x9 Grid">
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="666.67" x2="666.67" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="722.22" x2="722.22" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="777.78" x2="777.78" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="833.33" x2="833.33" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="611.11" x2="611.11" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="555.56" x2="555.56" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="888.89" x2="888.89" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="944.44" x2="944.44" y2="750"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="83.33" x2="1000" y2="83.33"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="166.67" x2="1000" y2="166.67"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="250" x2="1000" y2="250"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="333.33" x2="1000" y2="333.33"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="416.67" x2="1000" y2="416.67"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="500" x2="1000" y2="500"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="583.33" x2="1000" y2="583.33"/>
+      <line class="b59514d9-0223-4a04-a7c8-785b72359070" x1="500" y1="666.67" x2="1000" y2="666.67"/>
+    </g>
+  </g>
+</svg>

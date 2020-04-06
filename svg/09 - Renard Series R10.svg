@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+  <defs>
+    <style>
+      .e735f93b-34ae-435b-92d2-4d65277e995c, .f4774e9d-cedb-40ec-90cf-989c55d04726 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .e735f93b-34ae-435b-92d2-4d65277e995c {
+        stroke: #f0f;
+      }
+
+      .f4774e9d-cedb-40ec-90cf-989c55d04726 {
+        stroke: #a0f;
+      }
+    </style>
+  </defs>
+  <title>09 - Renard Series R10</title>
+  <g id="f7eed5c0-2934-4db2-a72a-eb944db64799" data-name="Renard Series R10">
+    <g id="e5b46377-fa92-4bba-a1c9-3e6ccb6ed258" data-name="R5">
+      <g id="e71b26b3-e550-4f11-901b-1d6a14549a1c" data-name="V R5">
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="100" x2="100" y2="618"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="160" x2="160" y2="618"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="250" x2="250" y2="618"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="400" x2="400" y2="618"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="630" x2="630" y2="618"/>
+      </g>
+      <g id="b22ca091-b843-4e0b-8792-21d4851bc447" data-name="H R5">
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="1000" y1="61.8" y2="61.8"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="1000" y1="98.88" y2="98.88"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="1000" y1="154.5" y2="154.5"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="1000" y1="247.2" y2="247.2"/>
+        <line class="e735f93b-34ae-435b-92d2-4d65277e995c" x1="1000" y1="389.34" y2="389.34"/>
+      </g>
+    </g>
+    <g id="ac60fadb-149e-460f-8816-05902931ed79" data-name="R10">
+      <g id="a66b14ab-60b1-4968-a4aa-639dfc949fbd" data-name="V R10">
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="125" x2="125" y2="618"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="200" x2="200" y2="618"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="315" x2="315" y2="618"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="500" x2="500" y2="618"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="800" x2="800" y2="618"/>
+      </g>
+      <g id="b70e2fbf-70f0-4b3b-a96e-9acce966be81" data-name="H R10">
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="1000" y1="77.25" y2="77.25"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="1000" y1="123.6" y2="123.6"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="1000" y1="194.67" y2="194.67"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="1000" y1="309" y2="309"/>
+        <line class="f4774e9d-cedb-40ec-90cf-989c55d04726" x1="1000" y1="494.4" y2="494.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

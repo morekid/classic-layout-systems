@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+  <defs>
+    <style>
+      .a0d9d978-a335-4a0e-857e-021c750cc62a {
+        fill: none;
+        stroke: #f0f;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+    </style>
+  </defs>
+  <title>08 - Renard Series R5</title>
+  <g id="bcad28e2-1534-41e6-98cb-53b0d12aae25" data-name="Renard Series R5">
+    <g id="bfe796e1-cc2f-4b10-9fee-9cd3727ac7ed" data-name="R5">
+      <g id="b0e5c876-a70c-4157-b8ef-ca34d55093c9" data-name="V R5">
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="100" x2="100" y2="618"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="160" x2="160" y2="618"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="250" x2="250" y2="618"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="400" x2="400" y2="618"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="630" x2="630" y2="618"/>
+      </g>
+      <g id="f346dd2a-9901-4fb8-a589-bd720595d160" data-name="H R5">
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="1000" y1="61.8" y2="61.8"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="1000" y1="98.88" y2="98.88"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="1000" y1="154.5" y2="154.5"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="1000" y1="247.2" y2="247.2"/>
+        <line class="a0d9d978-a335-4a0e-857e-021c750cc62a" x1="1000" y1="389.34" y2="389.34"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<svg id="ef3c9fdd-aae2-41b4-b3fe-a37e3f1f4cde" data-name="Renard Series R20" xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+  <defs>
+    <style>
+      .b042265a-a0c4-4239-bdff-12de1c4c8f31, .b26ec952-0603-4a8e-b121-009ace16226e, .e8793f83-5b01-4b78-8013-0d9d90c99997 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .e8793f83-5b01-4b78-8013-0d9d90c99997 {
+        stroke: #f0f;
+      }
+
+      .b042265a-a0c4-4239-bdff-12de1c4c8f31 {
+        stroke: #a0f;
+      }
+
+      .b26ec952-0603-4a8e-b121-009ace16226e {
+        stroke: #f0a;
+      }
+    </style>
+  </defs>
+  <title>10 - Renard Series R20</title>
+  <g id="bcd4c43d-bf40-4f22-bde3-b108e23dddd7" data-name="R5">
+    <g id="a296e1d8-6ba4-41af-87b1-b628e625bf1c" data-name="V R5">
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="100" x2="100" y2="618"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="160" x2="160" y2="618"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="250" x2="250" y2="618"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="400" x2="400" y2="618"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="630" x2="630" y2="618"/>
+    </g>
+    <g id="b8a0abe9-9ed9-46fd-ad94-9a2c5f4350f8" data-name="H R5">
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="1000" y1="61.8" y2="61.8"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="1000" y1="98.88" y2="98.88"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="1000" y1="154.5" y2="154.5"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="1000" y1="247.2" y2="247.2"/>
+      <line class="e8793f83-5b01-4b78-8013-0d9d90c99997" x1="1000" y1="389.34" y2="389.34"/>
+    </g>
+  </g>
+  <g id="b5a4fc5a-98d9-4ef3-a10e-11631414ca06" data-name="R10">
+    <g id="ff28db95-cf0b-48e6-a6ed-a47e8117f569" data-name="V R10">
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="125" x2="125" y2="618"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="200" x2="200" y2="618"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="315" x2="315" y2="618"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="500" x2="500" y2="618"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="800" x2="800" y2="618"/>
+    </g>
+    <g id="a94c3a8c-a222-493d-9b79-0dcf0eaddc29" data-name="H R10">
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="1000" y1="77.25" y2="77.25"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="1000" y1="123.6" y2="123.6"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="1000" y1="194.67" y2="194.67"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="1000" y1="309" y2="309"/>
+      <line class="b042265a-a0c4-4239-bdff-12de1c4c8f31" x1="1000" y1="494.4" y2="494.4"/>
+    </g>
+  </g>
+  <g id="ed3d0a8a-ee6e-434e-b6aa-ce6f904f2d00" data-name="R20">
+    <g id="b1aea124-c082-4149-93d0-6d6be2d520ba" data-name="V R20">
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="112" x2="112" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="140" x2="140" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="180" x2="180" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="224" x2="224" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="280" x2="280" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="355" x2="355" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="450" x2="450" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="560" x2="560" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="710" x2="710" y2="618"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="900" x2="900" y2="618"/>
+    </g>
+    <g id="b80683ac-c6d0-46fc-bf33-2d9312350a18" data-name="H R20">
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="69.22" y2="69.22"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="86.52" y2="86.52"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="111.24" y2="111.24"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="138.43" y2="138.43"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="173.04" y2="173.04"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="219.39" y2="219.39"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="278.1" y2="278.1"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="346.08" y2="346.08"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="438.78" y2="438.78"/>
+      <line class="b26ec952-0603-4a8e-b121-009ace16226e" x1="1000" y1="556.2" y2="556.2"/>
+    </g>
+  </g>
+</svg>

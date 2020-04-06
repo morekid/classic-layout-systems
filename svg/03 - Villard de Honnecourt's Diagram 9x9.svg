@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <defs>
+    <style>
+      .a07a44ec-a781-4d03-a389-1c1566511efd, .f3839c1e-e479-45a0-a663-5aa561c00a1a, .f81a6438-801a-42a4-b5b3-1cffc011ab81 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .f3839c1e-e479-45a0-a663-5aa561c00a1a {
+        stroke: #f0f;
+      }
+
+      .f81a6438-801a-42a4-b5b3-1cffc011ab81 {
+        stroke: red;
+      }
+
+      .a07a44ec-a781-4d03-a389-1c1566511efd {
+        stroke: #f0a;
+      }
+    </style>
+  </defs>
+  <title>03 - Villard de Honnecourt&amp;apos;s Diagram 9x9</title>
+  <g id="b11f43bc-47f4-4eb5-998a-b5a1141374dc" data-name="Villard de Honnecourt&apos;s Diagram 9x9">
+    <g id="e1924bd3-e3d8-4e5f-a7df-9fc225d79847" data-name="Measures">
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x2="1000" y2="750"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="500" x2="1000" y2="750"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="500" y2="750"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="1000" y2="750"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="500" x2="500" y2="750"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="666.67" x2="666.67" y2="250"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="666.67" x2="333.33" y2="250"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="666.67" x2="500" y2="250"/>
+      <line class="f3839c1e-e479-45a0-a663-5aa561c00a1a" x1="666.67" x2="416.67" y2="125"/>
+    </g>
+    <g id="fb370e15-9f42-4fea-ac16-8ecdffdf18a1" data-name="Key Points">
+      <circle class="f81a6438-801a-42a4-b5b3-1cffc011ab81" cx="555.56" cy="83.33" r="3"/>
+      <circle class="f81a6438-801a-42a4-b5b3-1cffc011ab81" cx="444.44" cy="83.33" r="3"/>
+      <circle class="f81a6438-801a-42a4-b5b3-1cffc011ab81" cx="666.67" cy="250" r="4"/>
+      <circle class="f81a6438-801a-42a4-b5b3-1cffc011ab81" cx="333.33" cy="250" r="4"/>
+      <circle class="f81a6438-801a-42a4-b5b3-1cffc011ab81" cx="444.44" cy="83.33" r="3"/>
+    </g>
+    <g id="af1a3e23-262d-4d3e-9944-a62f0316cb33" data-name="Blocks">
+      <rect class="f81a6438-801a-42a4-b5b3-1cffc011ab81" x="555.56" y="83.33" width="333.33" height="500"/>
+      <rect class="f81a6438-801a-42a4-b5b3-1cffc011ab81" x="111.11" y="83.33" width="333.33" height="500"/>
+    </g>
+    <g id="b070a3a4-806a-43d1-83b3-b07ea4c323f2" data-name="9x9 Grid">
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="666.67" x2="666.67" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="722.22" x2="722.22" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="777.78" x2="777.78" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="833.33" x2="833.33" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="611.11" x2="611.11" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="555.56" x2="555.56" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="888.89" x2="888.89" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="944.44" x2="944.44" y2="750"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="83.33" x2="1000" y2="83.33"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="166.67" x2="1000" y2="166.67"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="250" x2="1000" y2="250"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="333.33" x2="1000" y2="333.33"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="416.67" x2="1000" y2="416.67"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="500" x2="1000" y2="500"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="583.33" x2="1000" y2="583.33"/>
+      <line class="a07a44ec-a781-4d03-a389-1c1566511efd" x1="500" y1="666.67" x2="1000" y2="666.67"/>
+    </g>
+  </g>
+</svg>

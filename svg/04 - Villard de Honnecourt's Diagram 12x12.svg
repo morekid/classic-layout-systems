@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <defs>
+    <style>
+      .a529b57c-19b2-45b4-a2cc-8a09f778894c, .ac974c51-f887-4a97-a57c-7d0932bfd3fb, .e9e37fee-8047-458c-a1f1-ab2620d5ebe5 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .e9e37fee-8047-458c-a1f1-ab2620d5ebe5 {
+        stroke: #f0f;
+      }
+
+      .ac974c51-f887-4a97-a57c-7d0932bfd3fb {
+        stroke: red;
+      }
+
+      .a529b57c-19b2-45b4-a2cc-8a09f778894c {
+        stroke: #f0a;
+      }
+    </style>
+  </defs>
+  <title>04 - Villard de Honnecourt&amp;apos;s Diagram 12x12</title>
+  <g id="ac5d9daf-b6cd-4d9a-84d1-b5c3a4e4449e" data-name="Villard de Honnecourt&apos;s Diagram 12x12">
+    <g id="f16078f1-0c25-4e49-9f7c-560a70bb6fe9" data-name="Measures">
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x2="1000" y2="750"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="500" x2="1000" y2="750"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="500" y2="750"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="1000" y2="750"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="500" x2="500" y2="750"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="666.67" x2="666.67" y2="250"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="666.67" x2="416.67" y2="125"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="666.67" x2="333.33" y2="250"/>
+      <line class="e9e37fee-8047-458c-a1f1-ab2620d5ebe5" x1="666.67" x2="500" y2="250"/>
+    </g>
+    <g id="fe328bd1-81ee-4b74-a880-0a7cb25bfceb" data-name="Key Points">
+      <circle class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" cx="666.67" cy="250" r="4"/>
+      <circle class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" cx="333.33" cy="250" r="4"/>
+      <circle class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" cx="541.67" cy="62.5" r="3"/>
+      <circle class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" cx="458.33" cy="62.5" r="3"/>
+    </g>
+    <g id="a2df4ec4-8628-4d4f-9353-f9a700e6cafb" data-name="Blocks">
+      <rect class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" x="541.67" y="62.5" width="375" height="562.5"/>
+      <rect class="ac974c51-f887-4a97-a57c-7d0932bfd3fb" x="83.33" y="62.5" width="375" height="562.5"/>
+    </g>
+    <g id="ad4fa775-bfaa-4a83-885b-efea477e7399" data-name="12x12 Grid">
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="541.67" x2="541.67" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="583.33" x2="583.33" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="625" x2="625" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="666.67" x2="666.67" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="708.33" x2="708.33" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="750" x2="750" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="791.67" x2="791.67" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="833.33" x2="833.33" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="875" x2="875" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="916.67" x2="916.67" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="958.33" x2="958.33" y2="750"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="62.5" x2="1000" y2="62.5"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="125" x2="1000" y2="125"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="187.5" x2="1000" y2="187.5"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="250" x2="1000" y2="250"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="312.5" x2="1000" y2="312.5"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="375" x2="1000" y2="375"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="437.5" x2="1000" y2="437.5"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="500" x2="1000" y2="500"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="562.5" x2="1000" y2="562.5"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="625" x2="1000" y2="625"/>
+      <line class="a529b57c-19b2-45b4-a2cc-8a09f778894c" x1="500" y1="687.5" x2="1000" y2="687.5"/>
+    </g>
+  </g>
+</svg>

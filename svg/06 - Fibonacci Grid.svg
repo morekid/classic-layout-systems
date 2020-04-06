@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618">
+  <defs>
+    <style>
+      .ed590a2f-1197-451d-abe9-f4e2a5c86153 {
+        fill: none;
+        stroke: #f0a;
+        stroke-miterlimit: 10;
+        stroke-width: 0.2px;
+      }
+
+      .b83986e5-6da5-4c48-a2b6-93cfe76fc51a {
+        fill: #f0f;
+        opacity: 0.08;
+      }
+    </style>
+  </defs>
+  <title>06 - Fibonacci Grid</title>
+  <g id="bf2e8e23-f4a7-4b18-8b74-c1c5bb2ad26c" data-name="Fibonacci Grid">
+    <g id="a2bbf8f5-9387-4e4c-856d-3f63dd81413f" data-name="13x8 Grid">
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="76.92" x2="76.92" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="153.85" x2="153.85" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="230.77" x2="230.77" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="307.69" x2="307.69" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="384.62" x2="384.62" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="461.54" x2="461.54" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="538.46" x2="538.46" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="615.38" x2="615.38" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="692.31" x2="692.31" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="769.23" x2="769.23" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="846.15" x2="846.15" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" x1="923.08" x2="923.08" y2="618"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="77.25" x2="1000" y2="77.25"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="154.5" x2="1000" y2="154.5"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="231.75" x2="1000" y2="231.75"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="309" x2="1000" y2="309"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="386.25" x2="1000" y2="386.25"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="463.5" x2="1000" y2="463.5"/>
+      <line class="ed590a2f-1197-451d-abe9-f4e2a5c86153" y1="540.75" x2="1000" y2="540.75"/>
+    </g>
+    <rect class="b83986e5-6da5-4c48-a2b6-93cfe76fc51a" width="384.62" height="618"/>
+    <rect class="b83986e5-6da5-4c48-a2b6-93cfe76fc51a" width="384.62" height="231.75"/>
+    <rect class="b83986e5-6da5-4c48-a2b6-93cfe76fc51a" x="230.77" width="153.85" height="231.75"/>
+    <rect class="b83986e5-6da5-4c48-a2b6-93cfe76fc51a" x="230.77" y="154.83" width="153.85" height="76.92"/>
+    <rect class="b83986e5-6da5-4c48-a2b6-93cfe76fc51a" x="230.77" y="154.83" width="76.92" height="76.92"/>
+  </g>
+</svg>
