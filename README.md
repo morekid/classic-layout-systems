@@ -13,10 +13,17 @@ The fact that we live in the digital age with new media does not mean that class
 
 
 ## Available Formats
-- Sketch Library
-- SVG
-- Illustrator
 
+### Sketch Library
+Download and add the `.sketch` file from within Sketch: **Preferences... > Libraries > Add Library...**.
+
+### Illustrator
+Download and add the `.ai` file from within Illustrator: **Window > Symbol Libraries > Other Library...**.
+
+Or open as a standard Illustrator file to access the original drawings artboards.
+
+### SVG
+Convenience SVG exports.
 
 ## Measurements
 🔢📐All geometry is exported with two-digit accuracy to optimize for Sketch and SVG rendering.
